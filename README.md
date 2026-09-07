@@ -1,4 +1,3 @@
-# seasonal-agriculture-performance-analysis
 # Seasonal Agriculture Performance Analysis
 
 ## About
